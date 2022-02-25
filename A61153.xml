@@ -1,0 +1,249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The carmens remonstrance, or a reply to the false and scurrilous papers of the woodmongers,by them put out against the carremen in a way of opposing them in getting of their charter, and a vindication of the carmens intentions against the scandal of the vvoodmongers. Directed to the right honourable, Alexander Garland esquire, and the rest of the committee of Parliament who heard the businesse between the woodmongers and the carmen. And likewise to the Lord Mayor and court of Aldermen of the City of London. By Stephen Spratt solicitor for the carremen.</title>
+            <author>[Spratt, Stephen]</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61153</idno>
+            <idno type="STC">Wing S5028</idno>
+            <idno type="STC">ESTC R222157</idno>
+            <idno type="EEBO-CITATION">99833383</idno>
+            <idno type="PROQUEST">99833383</idno>
+            <idno type="VID">37859</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61153)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37859)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2198:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The carmens remonstrance, or a reply to the false and scurrilous papers of the woodmongers,by them put out against the carremen in a way of opposing them in getting of their charter, and a vindication of the carmens intentions against the scandal of the vvoodmongers. Directed to the right honourable, Alexander Garland esquire, and the rest of the committee of Parliament who heard the businesse between the woodmongers and the carmen. And likewise to the Lord Mayor and court of Aldermen of the City of London. By Stephen Spratt solicitor for the carremen.</title>
+                  <author>[Spratt, Stephen]</author>
+               </titleStmt>
+               <extent>[6], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>by G. Dawson,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With marginal notes.</note>
+                  <note>Copy trimmed at head with loss of text.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Transportation --  England --  London --  Early works to 1800.</term>
+               <term>License system --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37859:1"/>
+            <pb facs="tcp:37859:1" rendition="simple:additions"/>
+            <p>THE CARMENS REMONSTRANCE, OR A Reply to the falſe and ſcurrilous Papers of the WOODMONGERS, by them put out againſt the <hi>CARREMEN:</hi> IN A Way of oppoſing them in getting of their <hi>Charter,</hi> and Vindication of the <hi>Carmens</hi> in<g ref="char:EOLhyphen"/>tentions againſt the Scandal of the VVOODMONGERS.</p>
+            <p>Directed to the Right Honourable, ALEXANDER GARLAND Eſquire, and the reſt of the Committee of Parliament Who heard the buſineſſe between the Woodmongers and the Carmen.</p>
+            <p>And likewiſe to the Lord Mayor and Court of Aldermen of the City of <hi>London.</hi>
+            </p>
+            <p>
+               <hi>By</hi> STEPHEN SPRATT <hi>Solicitor for the Carremen.</hi>
+            </p>
+            <p>Printed at <hi>London</hi> by <hi>G. Dawſon</hi> 1649.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:37859:2"/>
+            <pb facs="tcp:37859:2"/>
+            <head>TO THE RIGHT HONORABLE, <hi>Alexander Garland,</hi> Eſquire; And the reſt of the Committee appointed by Parliament for hearing the controverſie between the Carmen and Wood<g ref="char:EOLhyphen"/>mongers of <hi>London, &amp;c.</hi>
+            </head>
+            <head type="sub">And to the Right Honorable, the Lord Major, and Court of Aldermen of the Citie of <hi>LONDON, Grace, Mercy, and Peace be multiplied, unto you from God the Father, and from our Lord Jeſus Chriſt.</hi>
+            </head>
+            <opener>
+               <salute>RIGHT HONORABLE,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N this following Treatiſe you will partly finde the conteſt between the Car<g ref="char:EOLhyphen"/>men of LONDON, &amp;c. and the Woodmongers of the ſame, &amp;c. I am confident, that you of the Commit<g ref="char:EOLhyphen"/>tee above mentioned, are very ſenſible of the wil<g ref="char:EOLhyphen"/>lingneſs, and great care of this (our happy, bleſ<g ref="char:EOLhyphen"/>ſed, and worthy renowned Parliament, in gi<g ref="char:EOLhyphen"/>ving
+<pb facs="tcp:37859:3"/> ſuch ſpeedy eare to the cries of the poor Car<g ref="char:EOLhyphen"/>men, and how quickly they were pleaſed to read their Petition when it was firſt preſented; for which the Carmen have a treble duty upon them towards the Parliament: And your care in meet<g ref="char:EOLhyphen"/>ing at the Committee, as ſoon as the Petition was re<g ref="char:EOLhyphen"/>farred, to examine the matter on both ſides, was ſo much, that the Carmen, their poore Wives and Children, are ever bound to be thankfull, and to honour and ſerve you for ever. I doubt not but you are ſenſible of the great oppreſſions the Carmen lay under, by their being governed by the Woodmongers: And I beleeve your Ho<g ref="char:EOLhyphen"/>nours were well ſatisfied with the proof of the ſame.</p>
+            <p>And I doubt not but you the Lord Major and Aldermen of the Citie of LONDON doe very well know what wrong the Woodmongers have done the Carmen. And no doubt but you would have relieved them to the utmoſt of your pow<g ref="char:EOLhyphen"/>er, had the Carmen come with their petition. But I adviſed them, that nothing could perfectly and perpetually relieve them from their oppreſſions, but to be ſevered from the Woodmongers com<g ref="char:EOLhyphen"/>pany, and to be incorporate in one Body by them<g ref="char:EOLhyphen"/>ſelves, by Charter under the great Seale of Eng<g ref="char:EOLhyphen"/>land, which you had no power to grant: and there<g ref="char:EOLhyphen"/>fore they petitioned the Parlirment, in whoſe pow<g ref="char:EOLhyphen"/>er it is to grant the ſame. The matter hath been ful<g ref="char:EOLhyphen"/>ly heard, and received many debates: The Wood<g ref="char:EOLhyphen"/>mongers have been heard at large what they could ſay, and Mr. Recorder was heard what he could
+<pb facs="tcp:37859:3"/> ſay on behalf of the Citie, as he can well report to you. Mr. <hi>Recorder</hi> can report to you what horrible and unjuſt things were proved againſt the Wood<g ref="char:EOLhyphen"/>mongers in point of meaſure of coales, and how the good people of the Citie are cheated, although the Woodmongers in a ſcandalous paper delivered lately to the members of Parliament, did baſely ſcandalize and calumniate the Committee, ſaying, they would not heare them vindicate themſelves. Truly you may very well beleeve that thoſe who ſo openly and impudenrly will ſcandalize a Com<g ref="char:EOLhyphen"/>mittee of Parliament, will very eaſily abuſe the Carmen, who they have made their ſlanes ſo long time. But it is well known that the Woodmongers were heard, and heard again, three dayes one after a<g ref="char:EOLhyphen"/>nother, and had nothing to ſay; but all their deſire was to delay time, and to weary out the Carmen, as the Committee very well knows. And now they as much endeavour to retard the Committee from making their Report to the Houſe: And all is, becauſe they would weary out the Carmen, and continue their uſurped authority over them, and to get as many Rent-dayes paſt as they can: to get in the Car-rents, that ſo they may goe to Law with the Carmen with their owne money, and moſt they have now to ſay is by way of predicti<g ref="char:EOLhyphen"/>on, how the Carmen will abuſe the Citie, and abuſe Merchants, &amp;c. when I know to the con<g ref="char:EOLhyphen"/>trary: For the Carmen have from time to time in their meetings declared againſt the rudeneſſe of ſome of their Apprentices and Journey-men, and are reſolved whenſoever the Government is put
+<pb facs="tcp:37859:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:37859:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:37859:5"/> into their hands, to remedy any abuſe whatſoever, which the Woodmongers never took care to doe.</p>
+            <p>Now there is nothing wanting but the report to be made, and the Act paſſed: I beg for Gods ſake, and Juſtice ſake, that you the Committee will be pleaſed to haſten the ſame; and that you the Lord Major, and Aldermen of <hi>London,</hi> will be<g ref="char:EOLhyphen"/>come Advocates to the Parliament, on behalfe of the poore Car-men, by declaring your willing<g ref="char:EOLhyphen"/>neſſe in petitioning to the Parliament, that they will be pleaſed ſpeedily to grant the Car-mens de<g ref="char:EOLhyphen"/>ſires, before they be utterly ruined by the Wood<g ref="char:EOLhyphen"/>mongers, that there may be no more leading into catpivitie, nor no complaining in your ſtreets.</p>
+            <p>And he, who is bound in dutie to pray for your health and proſperitie, will ever remaine,</p>
+            <closer>
+               <signed>Your humble, and faithfull Servant, <hi>STEPHEN SPRAT.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37859:5"/>
+            <head>The CARMENS Reply to the WOODMONGERS Anſwer to the CAR<g ref="char:EOLhyphen"/>MENS Petition, which the <hi>Woodmongers</hi> call, <hi>A Scandalous Paper,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>The Woodmongers ſay, The Car<g ref="char:EOLhyphen"/>men proved not any one Article againſt them before the Commit<g ref="char:EOLhyphen"/>tee, as a Corporation: Nor that they did not erre from the Go<g ref="char:EOLhyphen"/>vernment put into their Hands. But that which the Carmen ſup<g ref="char:EOLhyphen"/>poſed to be proved, was deceit againſt ſome particular men in their meaſure of Coales; which did much take with the Committee: And being out of the Verge of their reference, thoſe particular men were not ſuffered to anſwer any thing in their own vindication.</p>
+            <p>
+               <hi>Reply.</hi> That all the Articles exhibited by the Carmen, were proved againſt the Woodmongers, which was the ground of the reſolution of the Committee, <hi>viz.</hi> That the Carmen ſhould be ſevered from the Company of Wood<g ref="char:EOLhyphen"/>mongers, and be a Corporation by themſelves diſtinct from the Woodmongers.</p>
+            <pb n="2" facs="tcp:37859:6"/>
+            <p> 
+               <hi>Reply.</hi> That a Corporation is inviſible, titular, or nomi<g ref="char:EOLhyphen"/>nall, and ſo cannot erre: But the members of a Corporation may erre, and ſo did the members of the Company of Woodmongers, as it was proved before the Committee; and the capitall errors were theſe, <hi>viz.</hi>
+            </p>
+            <p>The taking away of the Eſtates of poore men, widowes, and children, (to wit) Car-roomes, which they purchaſed with their money at deare rates. The taking away of which Roomes, hath been the cauſe of the ſtarving to death many poor fatherleſs children, &amp;c.</p>
+            <p>
+               <hi>Reply.</hi> That they have and do erre from the government put into their hands, for that their Charter doth not give them power to take away any Car-roomes from any man, who hath, or ever did purchaſe the ſame; nor from the wi<g ref="char:EOLhyphen"/>dowes or children of any Carman, nor to abuſe the Citie with falſe meaſures.</p>
+            <p>The Woodmongers ſay, <hi>That a Car-room is nothing but a Brand, or Licence ſet on the ſide of a Cart, to know the number limited, being</hi> 400.</p>
+            <p>
+               <hi>Reply.</hi> They ſay true in that, and thereby the Carmen know their Right: And if any others ſhould ſet up Carts, and marke them with that Brand, or mark, then the Car<g ref="char:EOLhyphen"/>men doe know themſelves to be wronged, &amp; their labour to be taken from them. And if any Carres be ſet on work with the Mark or Brand on the ſide of it, and doe exceed the num<g ref="char:EOLhyphen"/>ber of foure hundred; then the Citie is abuſed, and the Carmen robbed of their labour: But the Woodmongers did, and doe ſtill allow above fourty Carts to worke more then the number of foure hundred with the Mark or Brand on the ſide thereof, <hi>&amp;c.</hi> And by allowing of theſe Carts above the number of foure hundred, they get at leaſt three hundred pounds a yeare: but the Lord knowes what they doe with the money; and what is become of the Stock of the Hall, no man but themſelves can tell, albeit their books teſtifie that the Revennue of their Company is 800. pound <hi>per annum,</hi> and all raiſed out of the poore Carmens labour: and the Hoſpitall goe unpaid their Rent, at Midſummer laſt
+<pb facs="tcp:37859:6"/> 250. pounds in arreare, which the Carmen would ſcorn to ſuffer, were they but once incorporate by themſelves.</p>
+            <p>II. The Woodmongers ſay in their Anſwer, <hi>That Car<g ref="char:EOLhyphen"/>licences, or Car-roomes, and Carmen, were time out of mind, in the rule and diſpoſition of the Citie, who did from time to time, ſet down orders for their Government, and the Cities quiet: And the Carmen themſelves petitioned to be under the Woodmongers government, and to be incorporate with them, by reaſon they were not capable to govern themſelves; and the ordering of them was by Act of Common-councell, commiitted to the Woodmongers, who did condioion with the Citie to pay to Chriſts Hoſpitall</hi> 
+               <note n="a" place="margin">By what authority.</note> 150. l. <hi>per annum for their poores reliefe.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> The Carmen doe not endeavour to be from un<g ref="char:EOLhyphen"/>der the Rule of the Citie, but to be from under the rule of the Company of Woodmongers, and to be under the Rule, preſcription, and protection of the Lord Major, and Court of Aldermen (were they but incorporate by them<g ref="char:EOLhyphen"/>ſelves, as other Companeis are) and to pay to the <hi>Citie</hi> the hundred and fifty pounds <hi>per annum</hi> more faithfully then the Woodmongers have done. And to ſtand to, and abide ſuch Orders and by Lawes (for their good government and juſt dealings with Merchants and others of the Citie) as by conſent of the Judges of the Land, and conſent of the Lord Major and Court of Aldermen they ſhall make.</p>
+            <p>
+               <hi>Reply.</hi> And whereas the Woodmongers in their anſwer ſay, <hi>That the Carmen did petition to be incorperate with them.</hi> Whether this be true, or falſe, it is no great matter, (but the Carmen ſay, It is falſe) and that the Woodmongers did onely uſe the Carmens name in their Petition (without their conſents) to King <hi>James</hi> in the firſt year of his Reigne, meerly to ſet a grace upon their Petition, to procure their Charter, or elſe they had never gotten it. But ſuppoſe the Carmen did petition to be under the Woodmongers Go<g ref="char:EOLhyphen"/>vernment, yet not ſo under them as never to come to be Maſters, nor beare rule in the Company; as now the Wood<g ref="char:EOLhyphen"/>mongers deny to ſuffer them: neither can it be thought,
+<pb facs="tcp:37859:7"/> that the Carmen ever intended ſo to looſe their birth-Rights, as to ſerve a Prentiſhip in <hi>London</hi> for a Freedome (as they have done) and never to beare rule in their Com<g ref="char:EOLhyphen"/>pany, but, to live as ſlaves to the Woodmongers. Beſides, it is very probable, that the Woodmongers in thoſe dayes were honeſt men: And therefore the Carmen might well petition to be incorporate with them; both Parties at that time being but a ſmall body; but now the multitude both of Carmen and Woodmongers ariſing to a great body; and the Woodmongers ſtill incroaching and intrenching upon the Carmens priviledge. They may, and doe ſee more reaſon to petition to be ſeavered from the Woodmongers, then ever they did to be joyned with them; and therefore the Woodmongers allegation in that, is vain and fooliſh.</p>
+            <p>Again, The Woodmongers ſay, <hi>The Carmen were not capable to governe themſelves.</hi> For reply to that, Whether this be a ſcandall to the Carmen in thoſe dayes, is not worth diſputing. But if they were not capable in thoſe dayes to governe themſelves; yet that is no argument that the Car<g ref="char:EOLhyphen"/>men of theſe dayes are not capable to governe themſelves, for few of theſe were Carmen in thoſe dayes. Beſides, in theſe later ages all men grow wiſer and wiſer, and ſo doe the Carmen. Yet further for reply, Why the Carmen ſhould not be as capable of Government as the Wood<g ref="char:EOLhyphen"/>mongers are, let the World judge? Or why the Carmen were not ſo able to governe when they were incorporate, firſt, let Reaſon ſpeake? What were the Woodmongers in thoſe dayes, when the Corporation was granted? A few poore petty fellowes, that bought Coles and Wood, and ſould them again, and were ſo few in number, whilſt they lived meerly by honeſty, that in the third yeare of King <hi>James,</hi> when their Charter was granted, they were forced to take out ten men out of the Company of Farriers to make them a Company. Now let Reaſon ſpeake, Why may not a Carman be as capable of Government as a Farrier? Now the world may ſee what brave Blades theſe Woodmon<g ref="char:EOLhyphen"/>gers were, that make ſuch brags of their excellency in Go<g ref="char:EOLhyphen"/>vernment.
+<pb facs="tcp:37859:7"/> Caſt your eyes a little upon the Woodmon<g ref="char:EOLhyphen"/>gers of theſe times, and behold what Gallant Race, or Stock they come on. Some of them made Canvis Slops for Sea<g ref="char:EOLhyphen"/>men, ſome are Brewers, and ſome were Coblers, <hi>&amp;c,</hi> And when they were ſo neare crackt they could hardly hold toge<g ref="char:EOLhyphen"/>ther, then for lucre of the Car-roomes, which they knew they ſhould have power to take from poor Men, Widowes, and fatherleſſe Children, (their Roomes being worth 50, or 60. pounds apeice,) they turned their Copies and came to be Woodmongers. Now let Reaſon be the Judge once more, Why may not the honeſt Carmen of theſe times be as capable of Government as a Slop-maker, a Brewer, or a Cobler? <hi>&amp;c</hi>
+            </p>
+            <p>One word by way of Argument: <hi>Why not the Carmen to be a Company incorporate by their ſelvs, as well as the Wood<g ref="char:EOLhyphen"/>mongers, Porters, Watermen, and Tankard-bearers, &amp;c. Are theſe people ſo able to governe above the Car-men?</hi> O but the reaſon why the Wood-mongers doe ſo much oppoſe the Car-men, in getting of their Charter, is becauſe of the Car-roomes, O the ſweet Car-roomes; four hun<g ref="char:EOLhyphen"/>dred of them (ſaith the Woodmongers) that paid unto us 17<hi rend="sup">ſ</hi>. 4<hi rend="sup">d</hi>. <hi>per annum,</hi> and 1<hi rend="sup">ſ</hi>. 6<hi rend="sup">d</hi>. quartridge, and 20<hi rend="sup">ſ</hi>. every turne over, and 20<hi rend="sup">ſ</hi>. a peece admittance, beſides 20<hi rend="sup">ſ</hi>. upon every Car-roome, taxed by us, when, and as often as we pleaſe, beſides 3<hi rend="sup">ſ</hi>. <hi>per</hi> weeke for ſo many as we pleaſed to ſeale above the number of four hundred, out of which we have feaſted our Bellies with many a fat Capon, and with other good cheere, whilſt many of the poor Wi<g ref="char:EOLhyphen"/>dowes of our Company, and fatherleſſe children hath pe<g ref="char:EOLhyphen"/>riſhed for want of bread, whoſe Car-roomes we uſed to take away at our pleaſure. (Oh) theſe naughty Car-men will be divided from us, and then our Glory will lye a<g ref="char:EOLhyphen"/>mongſt our Coales: O when the Car-roomes be gone, what ſhall we doe for a Hall-Stock to give and lend one to another; to goe downe the River, and foreſtall the Market, and to keep up the combination amongſt us, to the intollerable abuſe of the Citie and parts adjacent, in
+<pb facs="tcp:37859:8"/> keeping up the price of Coales. O come, lets Buſſle, and perſwade the Parliament-men to keepe up our Intereſt, though it be never ſo much to their diſhonour. Now the reaſons are diſcovered why the Wood-mongers doe keepe ſuch a buſſling, to keep the Car-men from getting a Char<g ref="char:EOLhyphen"/>ter: But the Carmen doe know, and beleeve, that this Ho<g ref="char:EOLhyphen"/>nourable Parliament, for whom they have ſo often ventu<g ref="char:EOLhyphen"/>red their lives, (and never fought againſt, as the Wood<g ref="char:EOLhyphen"/>mongers have done) will doe them Juſtice, and Relieve them from their oppreſſions, in deſpight of all gain<g ref="char:EOLhyphen"/>ſayers.</p>
+            <p>III. <hi>The Wood-mongers ſay, the Car-mens deſires in making Car-licenſes hereditary, to be bought and ſold, is uncuſtomary, illegall, and againſt equitie, to the ruine of thouſand Families of poore Carmen, for preſent and fu<g ref="char:EOLhyphen"/>ture, that are never able to purchaſe a Car-roome at thoſe deare rates which then will be, the ſaid Car-roomes al<g ref="char:EOLhyphen"/>wayes having been, and now are given as Favours to De<g ref="char:EOLhyphen"/>ſerving, Honeſt</hi> 
+               <note n="b" place="margin">Thats none of the Woodmong<g ref="char:EOLhyphen"/>ers.</note> 
+               <hi>Car-men, that ſerved their Appren<g ref="char:EOLhyphen"/>ticeſhips,</hi> 
+               <note n="c" place="margin">Thats more than the Maſter of the Wood-mong<g ref="char:EOLhyphen"/>ers ever did.</note> 
+               <hi>and diſmiſt from diſhoneſt and unruly men, as Preſident</hi> 
+               <note n="d" place="margin">A good Preſident, for a Freeman of London to looſe his cal<g ref="char:EOLhyphen"/>ling at the plea<g ref="char:EOLunhyphen"/>ſure of a Woodmonger.</note> 
+               <hi>for above a hundred years.</hi>
+            </p>
+            <p>For Reply: Firſt, the Car-roomes, which the Wood<g ref="char:EOLhyphen"/>mongers call Car-licenſes, are, and ought to be a Chattel, and to deſcend to the Executor, or Adminiſtrator, when a Car-man dies: (the Reaſons;) Firſt, becauſe of the ſet number, they muſt be foure hundred, and no more, ſaith the Law of the Citie: Now theſe four hundred Car-roomes, being formerly ſetled upon foure hundred Car<g ref="char:EOLhyphen"/>men, by purchaſe, or deſcent, are their proper Goods; for it is ſuppoſed there be 1000 Car-men, yet the number of 400 carts muſt not be exceeded. So then no Car-man can ſet up a cart, unleſſe he hath a Car-roome, and cannot have a Roome, unleſſe he buy it of ſome other Car-man, and it muſt be of the foreſaid number, this is one Reaſon why it is a Chattell; it may properly be called a Chattell annexed to a Free Hold, becauſe it hath no determination, but goes to the Heirs, the Executor, Adminiſtrator, or Aſ<g ref="char:EOLhyphen"/>ſignes, as the Teſtator pleaſe.</p>
+            <pb n="7" facs="tcp:37859:8"/>
+            <p> Secondly, in regard of the Rent, the City is the Lord of the Fee, or chief Lord of the Car-roomes, and the Car-men are Tennants, and pay a quit Rent, that is, one hundred and fifty pounds a year.</p>
+            <p>Thirdly: <hi>The Woodmongers ſay it is uncuſtomary.</hi> For Reply, it was, and is a cuſtom older than the Woodmongers Charter, as hath been already proved, and the Wood<g ref="char:EOLhyphen"/>mongeas doe very well know, that their Hall-bookes doe manifeſt, that Car-roomes were commonly bought and ſold betweene man and man, as ordinary as any other com<g ref="char:EOLhyphen"/>modity; yea, the Woodmongers well know, that Car-roomes were pawned and mortgaged for mony, and ac<g ref="char:EOLhyphen"/>counted as good ſecurity as any Land, and this doth ap<g ref="char:EOLhyphen"/>peare by their owne Bookes, from 1605. which was the time their Charter was granted, till 1623. which was a<g ref="char:EOLhyphen"/>bout the time the Wood-mongers procured that wicked monopolizing Decree in Star-chamber, by which the Woodmongers hath ſince acted, leaving all rules given them in their Charter, and ſets up this Decree for a Law, and keeps much ſtir to have it maintained ſo, though to the ruine of men, women, and children, for time paſt, pre<g ref="char:EOLhyphen"/>ſent, and to come.</p>
+            <p>Again, their Hall-books ſhew that theſe Car-roomes were ſold, pawned, and morgaged, to the knowledge of the company, and by their conſent, ſo that if the compa<g ref="char:EOLhyphen"/>ny had then power to take them away, then their know<g ref="char:EOLhyphen"/>ledge and conſent to the ſelling, pawning, or morgaging of them, might have been a fine way to cheate men of their money. This is another Argument to prove the Car-roomes hereditary, and proper goods and chattell, and lawfull to be bought and ſold.</p>
+            <p>Another Rerſon is, that the Car-roomes hath ever been appraiſed as part of the goods of the deceaſed, and inven<g ref="char:EOLhyphen"/>toried and filed in the Orphans court <hi>London,</hi> as it hath been already proved by the Records of that Court before the Committee of Parliament: Surely the Lord Major, and Court of Aldermen, would never have ſuffered car-roomes
+<pb n="8" facs="tcp:37859:9"/> to have been filed in that Court, as the goods and chattels of the deceaſed, if they had not intended (they be<g ref="char:EOLhyphen"/>ing the Land-lords of the ſaid Roomes) they ſhould have been goods and chattels. The Woodmongers themſelves hath lately ſold car-roomes for fifty pounds a peece: And this is another Reaſon why car-roomes ſhould be taken and deemed as a chattell. &amp;c. at the diſpoſing of the Te<g ref="char:EOLhyphen"/>ſtator.</p>
+            <p>
+               <hi>Reply:</hi> It is the moſt <hi>(e)</hi> equalleſt thing in the world, <note place="margin">Woodmong<g ref="char:EOLhyphen"/>ers againſt E<g ref="char:EOLhyphen"/>quitie. Woodmonger</note> that every man ſhould poſſeſſe that which he doth purchaſe, or what deſcends to him of right.</p>
+            <p>
+               <hi>To the ruin of thouſands of Families of the poor Carmen, for preſent and future.</hi>
+            </p>
+            <p>
+               <hi>Reply:</hi> There is not thouſands of Families of Carmen; but they are a great body, and therefore the more fit to be a Corporation.</p>
+            <p>But the Woodmongers, by this part of their anſwer, would ſeeme to rob <hi>Peter</hi> to pay <hi>Paul;</hi> they would have the 400 Car-roomes in their diſpoſing, becauſe they would give them to deſerving, honeſt men, who have ſerved their Apprenticeſhips. So then, thoſe who purchaſed their Roomes fourty yeares ſince, and ſerved their Apprentice<g ref="char:EOLhyphen"/>ſhips to, muſt be at the pleaſure of the Woodmongers, whether they ſhall worke at their trade yea or no; but they would take theſe Roomes, and give them one to a<g ref="char:EOLhyphen"/>nother, and to their ſervants and friends, at their pleaſure, upon pretext they were deſerving, honeſt Carmen, and they would have all thoſe, whom they judge to be un<g ref="char:EOLhyphen"/>deſerving, to looſe their Livelyhood, a very fine pre<g ref="char:EOLhyphen"/>tence.</p>
+            <p>That the Carmen muſt ſerve ſeven yeates Apprenticeſhip in LONDON for a Freedome, and not worke at his Trade without the favour of the Woodmongers, or till they will judge them to be deſerving honeſt men; no doubt but the Lord Major and Court of Aldermen will look to this: For they are the Fathers of every Free-man, and ought to take care that every Free-man, who hath a Trade to work
+<pb facs="tcp:37859:9"/> on, may worke quietly without moleſtation, or putting from his Trade by any Company, or elſe what is a Freedome worth, or to what end doth any man ſerve an Apprent ice<g ref="char:EOLhyphen"/>ſhip?</p>
+            <p>Again, the Carmen were in a ſad condition, if they ſhould not enjoy their roome but by favour of the Wood<g ref="char:EOLhyphen"/>mongers, and till they did judge them deſerving, they would be foully miſtaken, as they were in the yeare 1647. when the ever honoured and renowned Army (under the command of that valiant and excellent piece of Virtue, the Lord <hi>Fairfax)</hi> came marching towards <hi>London</hi> for de<g ref="char:EOLhyphen"/>fence of the Parliament, the Woodmongers ſent about to the Carmen, commanding their horſes to help to draw out the Gunnes to the Workes, to charge the Army, and keep them out of the Citie, and becauſe they refuſed, the Wood<g ref="char:EOLhyphen"/>mongers threatned to cut out their Car-roomes.</p>
+            <p>Now you may ſee how well the Woodmongers would beſtow the Car-roomes, if they had the diſpoſall of them. This was no abetting of the treaſonable ingagement. Theſe men are fit to be Governors, are they not? that upon every opportunity will be ready to cut the Parliaments throats. Who doe you think they would give the Car-roomes to? Surely to ſuch as themſelves are, they ſhould be accounted the deſerving honeſt men, and not ſuch as the Carmen, who now doe become petitioners for a <hi>Charter,</hi> who have been all of them active for the Parliament, and moſt of them out in their ſervice, and ventured their lives. And thoſe Carmen whom the Woodmongers ſay are the major part, are none but a parcell of malignants that hold with them, to whom they would give the Car-roomes. And now in this time of Diſpute they goe cunningly to worke, and ſeale Carts by night to theſe malignant party, becauſe they ſhould take the Wood-mongers parts againſt the Carmen in gaining their <hi>Charter.</hi>
+            </p>
+            <p>The Woodmongers ſay likewiſe, <hi>That the Carmens de<g ref="char:EOLhyphen"/>ſires are very unprofitable for the publick in making of fuell deare, and the pricet of all ſorts of carriages treble to what they were wont.</hi>
+            </p>
+            <pb facs="tcp:37859:10"/>
+            <p> 
+               <hi>Reply.</hi> This is the Woodmongers fiction, not their mea<g ref="char:EOLhyphen"/>ning; for then they would have given ſome Reaſon for it: But it is very unprofitable for the Woodmongers: For if the Carmen have the Government of all the Carts, and the carriage of all the coales and wood, as they ought to have, and the keeping of meaters ſacks to ſerve the City, then the Woodmongers would loſe their ungodly gaine, and their opportunity to cheat both poore and Rich, with their ſhort meaſure, and little ſacks, as hath been at large proved before the Committee already, ſome, nay moſt of them want 6. buſhels in a chaldron, which they ought to have; and therefore it were good for the City to looke after this.</p>
+            <p>The Woodmongers ſay, <hi>It is dangerous for Mer<g ref="char:EOLhyphen"/>chants, if the Carmen be not under ſome Governours then themſelves, in the ſafety of their goods committed to their truſt.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Here the Woodmongers would make the Mer<g ref="char:EOLhyphen"/>chants their friends, and make the World beleeve that they are the cauſe of the Carmens preſerving of Merchants goods, when in truth it is no ſuch matter. If the Carmen take a load of Wines, or any other Commodity whatſoe<g ref="char:EOLhyphen"/>ver, and if it be miſcarried by him, or his neglect, the Company of Woodmongers are not, nor never were in<g ref="char:EOLhyphen"/>joyned to make it good to the Merchant, but it lyes upon the Carmans ſcore, and therefore this is a vain flaſh put out by the Woodmongers, to make the people beleeve a lye.</p>
+            <p>The Woodmongers ſay, <hi>Very unpeaceable the Carmen are to the people that paſſe the ſtreets.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> The Town Carmen who now petition the Par<g ref="char:EOLhyphen"/>liament for a Charter, are not the Parties unpeaceable in the ſtreets, but the Woodmongers own Carmen, who drive their Carts with Coles, are them, who commonly make any diſturbance in the ſtreets, to the great danger of the people that travaile to and fro.</p>
+            <p>The Woodmongers ſay, <hi>The Carmens deſires are againſt</hi>
+               <pb facs="tcp:37859:10"/> 
+               <hi>their birth-right, in denying them to carry their own goods, with their own Carts and Servants.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> It is not againſt their birth-right, becauſe it is ac<g ref="char:EOLhyphen"/>cording to the Charter of LONDON, for that by the Charter and by the Law of the Land, no man may uſe two Trades. And farther, if the Woodmongers keep Carts and Servants to carry out their own goods, then the Ironmon<g ref="char:EOLhyphen"/>ger, Fiſh-monger, Coſtermonger, <hi>&amp;c.</hi> may keep Servants and Carts to fetch their goods from the water ſide; and the Merchants may keep Carts to fetch and carry their goods, and then what will be become of the Carmen, who being many in number, and have ſerved their Apprentiſhips for that Trade onely, and have no other way to live upon. Againe, it is deſtructive to all Companies in LONDON, and to all Charters of Companies, for the Woodmongers to keepe Carts to carry out their own goods. By the ſame reaſon the Drapers may keep Cloathworkers in their houſe to dreſſe their own Cloath, then that Trade is ſpoiled; the Silke men, Servants to thraw their own Silke, the Apothe<g ref="char:EOLhyphen"/>cary give his own Phyſick, and ſo bring all diſtinct Trades to one, and ſo deſtroy all Government.</p>
+            <p>Now; let all men conſider of what neceſſity it is to di<g ref="char:EOLhyphen"/>vide the Car-men from the Woodmongers, and give them a Charter by themſelves, for the good of the Publique, and for the good of the poore men and their wives and chil<g ref="char:EOLhyphen"/>dren after them, that when they dye, the Woodmongers may not <hi>Roman-like,</hi> take away both their Roome and their company, and leave their wives and children to periſh in the ſtreets, as many have done heretofore.</p>
+         </div>
+         <div type="postscript">
+            <pb n="12" facs="tcp:37859:11"/>
+            <head>Poſtſcript.</head>
+            <p>THe Woodmongers fooliſhly in a paper, at the foot of the paper ſay, that Captaine <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> their Solicitor, did offer Mr. <hi>Sprat,</hi> the So<g ref="char:EOLhyphen"/>licitor for the Car-men, that the Woodmongers would conſent to a diſjunction from the Car<g ref="char:EOLhyphen"/>men, ſo that none may be compelled to goe from them, that are willing to ſtay with them; and that the Car-men pay a proportion of their debts, contracted for the uſe of the Parliament, and o<g ref="char:EOLhyphen"/>therwiſe.</p>
+            <p>
+               <hi>Reply:</hi> The Woodmongers doe well know, that the Committee did ſo order, that the Car<g ref="char:EOLhyphen"/>men ſhould pay a proportion of ſuch debts as the Company did contract to lend to the Parliament, but not otherwiſe; and the Car-men are willing, and offered to meet the Maſter and Wardens three times to come to account with them, but they re<g ref="char:EOLhyphen"/>fuſe to meet, to give any account; for in truth the Car-men have paid their ſhare of thoſe debts long ſince, and the Company keep the money, and let the debts goe unpaid. Now to anſwer all o<g ref="char:EOLhyphen"/>ther propoſals at the foot of the ſaid paper, is but to anſwer <hi>&amp;c.</hi> according to his folly; but this will be a proper deſire, that the Woodmongers doe conſent to the Car-mens deſires, and appear <hi>gratis</hi> in the Lord Majors Court at <hi>Guild-Hall,</hi> to anſwer a ſuit in Equitie, for the Revenue of the Company for this fourty yeares, and ſo let the Law decide the account, and there let the account
+<pb facs="tcp:37859:11"/> be given, and never trouble the Parliament about that, and let them quietly reſtore to the right own<g ref="char:EOLhyphen"/>ers, to wit, poore widowes and children, and o<g ref="char:EOLhyphen"/>thers, the foureſcore and eight Car-roomes which they have takn away, by pretext of their decree in Star Chamber, and let them pay ſo much money back to the poore people, as the Roomes hath been worth ſince the taking of them, and then they will doe like men of conſcience and honeſty, or elſe let them appear <hi>gratis</hi> to ſo many ſuites at common Law, to be brought upon the Statute made the 21 yeare of King <hi>Iames</hi> againſt Monopo<g ref="char:EOLhyphen"/>lies, and then out of doubt, they will be glad to cut ſcores with the Car-men, as to the matter of Account.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
